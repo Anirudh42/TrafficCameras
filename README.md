@@ -5,7 +5,7 @@ This project is aimed at allowing the traffic police to install minimum number o
 
 ### Description
 
-This is the classical optimization problem called <b>Minimum Vertex Cover</b> problem. In this project, the problem has been solved using three different approaches, using a SAT solver and two approximate algorithms implemented in C++ . A detailed analysis of the using the three different techniques has been reported.
+This is the classical optimization problem called <b>Minimum Vertex Cover</b> problem. In this project, the problem has been solved using three different approaches, using a SAT solver and two approximate algorithms implemented in C++ . A detailed analysis of the three different techniques has been reported.
 
 ### Getting Started
 
